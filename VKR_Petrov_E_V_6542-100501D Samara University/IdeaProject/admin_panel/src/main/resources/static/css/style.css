@@ -1,0 +1,36 @@
+div.logo {
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 310px;
+    margin: 0 auto;
+}
+
+#header-wrapper {
+    font-size: 29px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    line-height: 1.2em;
+    padding: 100px 10px 20px;
+    white-space: normal;
+}
+
+.card-1 {
+    margin: 0 auto;
+    padding: 0 20px;
+	max-width: 850px;
+}
+
+.sdvig{
+	padding-right: 180px;
+}
+#tittle {
+    font-size: 32px;
+    color: #646464;
+    margin-top: 0px;
+}
+#button_1 {
+    margin-right: 20px;
+    margin-left: 335px;
+    width: 150px;
+}
