@@ -12,6 +12,8 @@ public class Event {
     @Column
     private Date date;
 
+
+
     public long getId() {
         return id;
     }
